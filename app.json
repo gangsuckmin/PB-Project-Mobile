@@ -2,6 +2,8 @@
   "expo": {
     "name": "pb-mobile",
     "slug": "pb-mobile",
+    "owner": "gangsuckmin",
+    "scheme": "pbmobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
